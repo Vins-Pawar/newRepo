@@ -1,2 +1,0 @@
-username="Vins"
-passward="Vins@123"
